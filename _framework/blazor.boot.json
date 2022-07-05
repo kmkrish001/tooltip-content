@@ -1,5 +1,5 @@
 {
-  "cacheBootResources": false,
+  "cacheBootResources": true,
   "config": [ ],
   "debugBuild": false,
   "entryAssembly": "WASM_Tooltip",
@@ -30,9 +30,9 @@
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-pTOoCbS7iwJyxzOPotRV6qdes42KCU6cOmuvfmJvXI8=",
       "System.Text.Encodings.Web.dll": "sha256-uuD0U1uppbWJI5NMnV8ZrVKRl7sFINANB6M8jml05i0=",
       "System.Text.Json.dll": "sha256-nm6JsA\/GVPOuw+lLud2THfLJtdMxhTMQRMNdBo4edNw=",
-      "Syncfusion.Blazor.dll": "sha256-reBoIg95Meex5PDq6YqLwFl4ZIZbIzlHDQxiZg9pRyw=",
+      "Syncfusion.Blazor.dll": "sha256-SOvR\/edZFUTXFP40ArBznqOFUtkirdW7vF1L2d7\/Xkw=",
       "Syncfusion.Blazor.Themes.dll": "sha256-48Nu1p3AqRkvwR\/w4eNZAjr80xkHvd1gkanjx7AcvNU=",
-      "WASM_Tooltip.dll": "sha256-GQs1BJut5vBl3NHmGLWsTZ\/zM0shIcLMh58oxBR5zIw=",
+      "WASM_Tooltip.dll": "sha256-s1xe5C97Er1BuXTld+Vl88eyI7JwETHAn9s9amWUJBQ=",
       "Microsoft.CSharp.dll": "sha256-gks7c5Rj+J\/bd9qHZtJvnooBFm1jCpQT0aBJy0U8L6M=",
       "System.Buffers.dll": "sha256-Auh6XumjwiYus9l\/1UIupjs4r4yxGxujJLy+UpgghTI=",
       "System.Collections.Concurrent.dll": "sha256-+cAJTlVGynejg49W6BZo7v9ByCmthUBEO4zzHrwuwUI=",
